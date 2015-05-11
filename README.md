@@ -1,5 +1,5 @@
 # dsm
-DSM is a small application which supports employees report their tasks everyday to their project manager. The functionalities are very simple. The employee will report their tasks by answering 3 questions: what they did yesterday, what they will do today and whether they have any difficulties on tasks. The main purpose of this project is to help me consolidate knowledge when I learn NodeJS, Socket IO, MongoDB and AngularJS.
+DSM is a small application which supports employees report their tasks everyday to their project manager. The functionalities are very simple. The employee will report their tasks by answering 3 questions: what they did yesterday, what they will do today and whether they have any difficulties on tasks. The main purpose of this project is to make a small application and help me consolidate knowledge when I learn NodeJS, Socket IO, MongoDB and AngularJS.
 
 To run this application, you have to follow these steps:
 - Install MongoDB https://www.mongodb.org
@@ -7,3 +7,8 @@ To run this application, you have to follow these steps:
 - Go to project directory and install NodeJS dependencies by using command "npm install"
 - Start application by command "node index.js"
 - Open url http://localhost:8080 by web browser
+
+To generate api documentations, you have to follow these steps:
+- Install grunt http://gruntjs.com/
+- Go to project directory and run grunt task by command "grunt"
+- Open url http://localhost:8080/docs by web browser
