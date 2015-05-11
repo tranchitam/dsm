@@ -1,0 +1,15 @@
+{
+  "message.welcome": "Welcome to DMS",
+  "auth.message.token.expired": "Token Expired",
+  "auth.message.forbidden": "Forbidden",
+  "auth.message.invalid.user.or.token": "Invalid User or Token",
+  "auth.message.common.error.message": "Oops something went wrong",
+  "auth.message.not.authorized": "Not Authorized",
+  "auth.message.invalid.credentials": "Invalid credentials",
+  "user.message.not.found": "User not found",
+  "plan.message.not.found": "Plan not found",
+  "me.message.not.you": "You has provided an invalid information",
+  "me.message.wrong.password": "Wrong password",
+  "registration.message.status.success": "Successful",
+  "registration.message.status.failed": "Failed"
+}

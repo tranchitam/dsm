@@ -1,0 +1,15 @@
+{
+  "message.welcome": "Chào mừng đến với DSM",
+  "auth.message.token.expired": "Token đã hết hạn",
+  "auth.message.forbidden": "Cấm truy cập",
+  "auth.message.invalid.user.or.token": "Tài khoản hoặc Token không hợp lệ",
+  "auth.message.common.error.message": "Đã có lỗi xảy ra",
+  "auth.message.not.authorized": "Không có quyền truy cập",
+  "auth.message.invalid.credentials": "Thông tin không hợp lệ",
+  "user.message.not.found": "Không tìm thấy người dùng",
+  "plan.message.not.found": "Không tìm thấy plan",
+  "me.message.not.you": "Thông tin bạn cung cấp không hợp lệ",
+  "me.message.wrong.password": "Sai mật khẩu",
+  "registration.message.status.success": "Thành công",
+  "registration.message.status.failed": "Không thành công"
+}
